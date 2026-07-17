@@ -1,4 +1,4 @@
-# Gaming Addiction — Model Training (Notebook)
+# Gaming Addiction — Model Training 
 
 This notebook covers the data analysis and model training pipeline behind the [Gaming Addiction Predictor](./README.md) app. It goes from raw data to a trained, deployable classification model.
 
